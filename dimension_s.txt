@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img.normal
+</style>
+<body>
+<img class="normal" src="smiley.gif"></img>
+<img class="big" src="smiley.gif"></img>
+
+<p></p>
+</body>
+</head>
+</html>
